@@ -1,9 +1,7 @@
 #!/binbash
-#---------------------------------------------------------------------------------------------------
-#----------------------------------Securing SSH in Linux Servers------------------------------------
-#---------------------------------------------------------------------------------------------------
-#----------Reference: http://www.binbert.com/blog/2010/11/securing-ssh-in-linux-servers/---------
 
+#----------------------------------Securing SSH in Linux Servers---------------------------------
+#----------Reference: http://www.binbert.com/blog/2010/11/securing-ssh-in-linux-servers/---------
 
 echo "Running test on Securing SSH"
 
